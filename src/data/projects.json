@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Maze Game",
+    "imageSrc": "projects/project.png",
+    "skills": ["HTML", "CSS","JS"],
+    "demo": "https://maze-game-orcin-six.vercel.app/",
+    "source": "https://github.com/pritipriyadarshani70/Maze-Game.git"
+  },
+  {
+    "title": "Restaurant",
+    "imageSrc": "projects/project.png",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://restaurant-p9fh.vercel.app/",
+    "source": "https://github.com/pritipriyadarshani70/restaurant.git"
+  },
+  {
+    "title": "Rock-Paper-Scissors",
+    "imageSrc": "projects/project.png",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://rock-paper-scissors-tau-teal.vercel.app/",
+    "source": "https://github.com/pritipriyadarshani70/rock-paper-scissors.git"
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "projects/project.png",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://tic-tac-toe-two-ecru-58.vercel.app/",
+    "source": "https://github.com/pritipriyadarshani70/tic-tac-toe.git"
+  }
+]
